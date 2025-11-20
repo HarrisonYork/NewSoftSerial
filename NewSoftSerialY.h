@@ -25,8 +25,8 @@ The latest version of this library can always be found at
 http://arduiniana.org.
 */
 
-#ifndef NewSoftSerial_h
-#define NewSoftSerial_h
+#ifndef NewSoftSerialY_h
+#define NewSoftSerialY_h
 
 #include <inttypes.h>
 #include "Print.h"

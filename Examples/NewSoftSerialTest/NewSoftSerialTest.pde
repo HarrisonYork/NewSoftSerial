@@ -1,5 +1,5 @@
 
-#include <NewSoftSerialY.h>
+#include <NewSoftSerial.h>
 
 NewSoftSerial mySerial(2, 3);
 
